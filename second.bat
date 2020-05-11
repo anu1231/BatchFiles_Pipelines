@@ -1,0 +1,1 @@
+echo "I am in running block %date%:%time%"

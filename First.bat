@@ -1,0 +1,1 @@
+echo "I am in compile block %date%:%time%"
